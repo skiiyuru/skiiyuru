@@ -40,6 +40,7 @@ Facilitating science and coding programs in primary and secondary schools.
 
 ### Industry Engagement
 - Advocates for early adoption of software development skills among children
+- Volunteers as a coding instructor, teaching HTML, CSS and Python to primary school children
 - Shares insights on tech through portfolio blog
 
 ## 🎯 Professional Goals
