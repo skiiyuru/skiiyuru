@@ -24,12 +24,10 @@ const skills = {
 ## 🚀 Key Projects
 
 ### Imla
-AI powered transcription tool tailored to bilingual dialects in Kenya.
-- [Take a look](https://imla.io/)
+AI powered transcription tool tailored to bilingual dialects in Kenya. [Take a look](https://imla.io/)
 
 ### The Discovery Centre
-Facilitating science and coding programs in primary and secondary schools.
-- [Take a look](https://www.thediscoverycentre.co.ke/)
+Facilitating science and coding programs in primary and secondary schools. [Take a look](https://www.thediscoverycentre.co.ke/)
 
 ## 🎖️ Leadership & Community Impact
 
