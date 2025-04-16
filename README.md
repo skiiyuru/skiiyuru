@@ -25,28 +25,28 @@ const skills = {
 
 ### Imla
 AI powered transcription tool tailored to bilingual dialects in Kenya.
-- **Website**: [View Live](https://imla.io/)
+- [Take a look](https://imla.io/)
 
 ### The Discovery Centre
 Facilitating science and coding programs in primary and secondary schools.
-- **Website**: [View Live](https://www.thediscoverycentre.co.ke/)
+- [Take a look](https://www.thediscoverycentre.co.ke/)
 
 ## 🎖️ Leadership & Community Impact
 
 ### Executive Leadership at The Discovery Centre
-- Transformed traditional educational models through practical and engaging experiences
-- Built and maintained strong relationships with key stakeholders from partner schools
-- Organized annual free 3-week holiday programs for children aged 6 and above in collaboration with Goethe Institute Kenya
+- Transformed traditional educational models through practical and engaging experiences.
+- Built and maintained strong relationships with key stakeholders from partner schools.
+- Organized annual free 3-week holiday programs for children aged 6 and above in collaboration with Goethe Institute Kenya.
 
 ### Industry Engagement
-- Advocates for early adoption of software development skills among children
-- Volunteers as a coding instructor, teaching HTML, CSS and Python to primary school children
-- Shares insights on tech through portfolio blog
+- Advocates for early adoption of software development skills among children.
+- Volunteers as a coding instructor, teaching HTML, CSS and Python to primary school children.
+- Shares insights on tech through portfolio blog.
 
 ## 🎯 Professional Goals
-- Advancing in software development roles that leverage leadership experience
-- Building impactful tech solutions
-- Continuous learning and skill development in latest technologies
+- Advancing in software development roles that leverage leadership experience.
+- Building impactful tech solutions.
+- Continuous learning and skill development in latest technologies.
 
 ## 📬 Connect With Me
 - **LinkedIn**: [in/skiiyuru](https://linkedin.com/in/skiiyuru)
