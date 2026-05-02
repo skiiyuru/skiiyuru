@@ -6,22 +6,20 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:steveknganga@gmail.com)
 [![Organization](https://img.shields.io/badge/TheDiscoveryCentre-Website-orange)](https://www.thediscoverycentre.co.ke)
 
-## 🎯Mission
+## Motivation
 Empowering children with coding and science skills while learning all I can in code.
 
-## 🛠️ Technical Stack
+## Technical Stack
 ```javascript
 const skills = {
     languages: ['JavaScript', 'TypeScript', 'Python'],
-    web_frameworks: ['React', 'Next.js', 'Node.js', 'Astro'],
-    mobile_frameworks: ['React Native'],
-    platforms: ['Vercel', 'Expo', 'Git', 'Docker'],
+    tools: ['React', 'Next.js', 'Node.js', 'Astro', 'Docker'],
     databases: ['MongoDB', 'PostgreSQL', 'SQLite'],
-    ai: ['FastAI', 'PyTorch']
+    machine-learning: ['Fast.AI', 'PyTorch']
 };
 ```
 
-## 🚀 Key Projects
+## Key Projects
 
 ### Imla
 AI powered transcription tool tailored to bilingual dialects in Kenya. [Take a look](https://imla.io/)
@@ -29,7 +27,7 @@ AI powered transcription tool tailored to bilingual dialects in Kenya. [Take a l
 ### The Discovery Centre
 Facilitating science and coding programs in primary and secondary schools. [Take a look](https://www.thediscoverycentre.co.ke/)
 
-## 🎖️ Leadership & Community Impact
+## Leadership & Community Impact
 
 ### Executive Leadership at The Discovery Centre
 - Transformed traditional educational models through practical and engaging experiences.
@@ -41,12 +39,7 @@ Facilitating science and coding programs in primary and secondary schools. [Take
 - Volunteers as a coding instructor, teaching HTML, CSS and Python to primary school children.
 - Shares insights on tech through portfolio blog.
 
-## 🎯 Professional Goals
-- Advancing in software development roles that leverage leadership experience.
-- Building impactful tech solutions.
-- Continuous learning and skill development in latest technologies.
-
-## 📬 Connect With Me
+## Connect With Me
 - **LinkedIn**: [in/skiiyuru](https://linkedin.com/in/skiiyuru)
 - **Email**: steveknganga@gmail.com
 - **Portfolio**: [Kiiyurus Space](https://kiiyurus.space)
