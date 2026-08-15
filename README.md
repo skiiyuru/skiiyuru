@@ -21,7 +21,7 @@ I'm using these projects to explore where my interests converge most  meaningful
 [![Organization](https://img.shields.io/badge/TheDiscoveryCentre-Website-orange)](https://www.thediscoverycentre.co.ke)
 
 ## Motivation
-Empowering children with coding and science skills while learning all I can in code.
+Empowering children with coding and science skill.
 
 
 ## Key Projects
