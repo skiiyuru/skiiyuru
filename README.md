@@ -13,7 +13,7 @@
   - [IN PROGRESS] 3D human reconstruction: Evaluating the robustness of guassian spatting methods such as [RoGSplat](https://openaccess.thecvf.com/content/CVPR2025/papers/Xiao_RoGSplat_Learning_Robust_Generalizable_Human_Gaussian_Splatting_from_Sparse_Multi-View_CVPR_2025_paper.pdf) and [FastGS](https://github.com/fastgs/FastGS), on VolHuMe(Volumetric Human Meshes) dataset.
 
 ## Background:
-
+- [3D web development portfolio](https://kiiyurus.space)
 - Software Engineer @ [Imla, Kenya](https://imla.io/)
 - Co-Founder of [The Discovery Centre, Kenya](https://www.thediscoverycentre.co.ke): We provide STEM and Coding programs to primary and secondary schools.
-- [Past works portfolio](https://kiiyurus.space)
+
